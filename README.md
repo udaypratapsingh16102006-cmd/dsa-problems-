@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
