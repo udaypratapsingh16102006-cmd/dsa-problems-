@@ -35,4 +35,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
