@@ -26,8 +26,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0008-string-to-integer-atoi) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
