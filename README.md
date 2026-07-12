@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
+| [1922-count-good-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1922-count-good-numbers) |
 ## String
 |  |
 | ------- |
