@@ -1,36 +1,28 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int i = 0;
-        int n = s.length();
-
-        // Skip leading spaces
-        while (i < n && s[i] == ' ')
-            i++;
-
-        // Check sign
-        int sign = 1;
-        if (i < n && (s[i] == '+' || s[i] == '-')) {
-            if (s[i] == '-')
-                sign = -1;
+        int i=0;
+        while(s[i]==' '){
             i++;
         }
-
-        long long num = 0;
-
-        // Convert digits
-        while (i < n && isdigit(s[i])) {
-            num = num * 10 + (s[i] - '0');
-
-            // Handle overflow
-            if (sign * num >= INT_MAX)
+        int sign=1;
+        if(s[i]=='-'||s[i]=='+'){
+            if(s[i]=='-'){
+                sign=-1;
+            }
+            i++;
+        }
+        long res=0;
+        while(s[i]>='0'&&s[i]<='9'){
+            res=res*10+ (s[i]-'0');
+            if(res*sign>INT_MAX){
                 return INT_MAX;
-            if (sign * num <= INT_MIN)
+            }
+            if(res*sign<INT_MIN){
                 return INT_MIN;
-
+            }
             i++;
         }
-
-        return sign * num;
+        return (res*sign);
     }
 };
