@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
