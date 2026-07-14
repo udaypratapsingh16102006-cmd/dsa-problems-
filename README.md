@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 ## Math
 |  |
@@ -92,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
