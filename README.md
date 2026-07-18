@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0090-subsets-ii) |
+| [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0148-sort-list) |
+| [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
 ## Merge Sort
 |  |
 | ------- |
