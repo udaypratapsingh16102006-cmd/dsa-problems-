@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1922-count-good-numbers) |
+| [2235-add-two-integers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2235-add-two-integers) |
 ## String
 |  |
 | ------- |
