@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
