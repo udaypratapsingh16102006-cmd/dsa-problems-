@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
+| [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0231-power-of-two) |
+| [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1922-count-good-numbers) |
 | [2235-add-two-integers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2235-add-two-integers) |
 ## String
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
+| [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
