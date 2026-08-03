@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0090-subsets-ii) |
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Merge Sort
