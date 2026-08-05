@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
 ## Binary Search
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
