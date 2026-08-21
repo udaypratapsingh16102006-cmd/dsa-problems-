@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2104-sum-of-subarray-ranges](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2104-sum-of-subarray-ranges) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Merge Sort
 |  |
 | ------- |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0042-trapping-rain-water) |
 | [2104-sum-of-subarray-ranges](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2104-sum-of-subarray-ranges) |
+## Simulation
+|  |
+| ------- |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
 <!---LeetCode Topics End-->
