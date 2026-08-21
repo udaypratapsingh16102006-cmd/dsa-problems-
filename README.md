@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2104-sum-of-subarray-ranges](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2104-sum-of-subarray-ranges) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Merge Sort
