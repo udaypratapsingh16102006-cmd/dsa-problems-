@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0234-palindrome-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2104-sum-of-subarray-ranges](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2104-sum-of-subarray-ranges) |
 ## Math
 |  |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0278-first-bad-version) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
 | ------- |
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Merge Sort
 |  |
 | ------- |
