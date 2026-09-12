@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0090-subsets-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0169-majority-element) |
 ## Sorting
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
