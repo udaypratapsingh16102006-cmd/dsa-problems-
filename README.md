@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
