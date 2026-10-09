@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1922-count-good-numbers) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Interactive
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
@@ -162,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sliding Window
 |  |
