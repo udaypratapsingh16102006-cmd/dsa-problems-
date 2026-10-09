@@ -1,15 +1,14 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {//putting up the sum intution in the problem 
+    int missingNumber(vector<int>& nums) {//this the loop traversal method which i had intution of without gpt
         int n =nums.size();
-        int actual_sum=0;
-        int sum=n*(n+1)/2;
         int res=-1;
-        for(int i=0;i<n;i++){
-
-            actual_sum= actual_sum + nums[i];
+        sort(nums.begin(),nums.end());
+        for(int i=0; i<n; i++){
+            if(nums[i]!=i){
+                return i;  //this is for the conditon if no missing is between the normal indexing 
+            }
         }
-         res= sum - actual_sum;
-        return res;
+        return nums.size();//this is for the d=edge acse if the element missing is at the last index such that it return the last index 
     }
 };
