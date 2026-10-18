@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2104-sum-of-subarray-ranges](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2104-sum-of-subarray-ranges) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0278-first-bad-version) |
+| [1004-max-consecutive-ones-iii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0219-contains-duplicate-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Greedy
 |  |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Indexed Tree
 |  |
