@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1004-max-consecutive-ones-iii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2104-sum-of-subarray-ranges) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Merge Sort
