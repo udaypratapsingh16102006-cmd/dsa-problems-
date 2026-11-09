@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0561-array-partition](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/0877-stone-game) |
 | [1922-count-good-numbers](https://github.com/udaypratapsingh16102006-cmd/dsa-problems-/tree/master/1922-count-good-numbers) |
